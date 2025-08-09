@@ -2,4 +2,4 @@
 
 ## My Portfolio
 
-- link: https://monjurul1113.github.io/LearnwithMonjurul/
+- link: https://farimondevelopers.github.io/LearnwithMonjurul/
